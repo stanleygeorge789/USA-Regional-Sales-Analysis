@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=stangeor)
+
 # USA Regional Sales Analysis
 
 Exploratory Data Analysis of Acme Co.’s USA sales data from 2014 to 2018, focused on revenue trends, profitability drivers, regional performance, and customer segmentation. This project demonstrates end-to-end EDA using Python and produces analysis-ready outputs suitable for BI and dashboarding.
